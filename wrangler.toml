@@ -1,0 +1,7 @@
+name = "eta-backend"
+main = "src/index.js"
+compatibility_date = "2026-07-01"
+
+[[kv_namespaces]]
+binding = "APPLICATION_STORE"
+id = "6773576821a24061a228dcfbfb516ce6"
