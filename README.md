@@ -66,7 +66,6 @@ Cloudflare Worker that receives Shopify form submissions and stores them in Airt
 | signature | Single line text |
 | submitted_at | Date/Time |
 | source | Single line text |
-| RawJSON | Long text |
 
 
 ### 3. Resend API
